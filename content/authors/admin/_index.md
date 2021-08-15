@@ -2,8 +2,8 @@
 title: Henry S Yuchi
 role: PhD Student in Machine Learning
 avatar_filename: headshot.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include computer experiments modeling and engineering
+  statistics.
 interests:
   - Data Science and Statistics
   - Machine Learning
@@ -35,6 +35,6 @@ email: shaowu.yuchi@gatech.edu
 superuser: true
 highlight_name: false
 ---
-Henry Shaowu Yuchi is a PhD student in Machine Learning at H. Milton Stewart School of Industrial & Systems Engineering of Georgia Institute of Technology. His research interests include computer experiment modeling and engineering statistics.
+Henry Shaowu Yuchi is a PhD student in Machine Learning at H. Milton Stewart School of Industrial & Systems Engineering of Georgia Institute of Technology. His research interests include computer experiments modeling and engineering statistics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Yuchi.pdf" "newtab" >}}resumé{{< /staticref >}}.
