@@ -1,63 +1,46 @@
 ---
-title: Example Talk
-
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+abstract: This article proposes new modeling methods for deterministic computer
+  experiments with multiple tuning parameters. Finite Element Analysis (FEA) is
+  commonly applied in large-scale computer experiments. Therefore, tuning
+  parameters which control the mesh densities of the simulation are critical to
+  its accuracy. This work utilizes a non-stationary Gaussian process model to
+  bring together simulations of different mesh densities and improve the overall
+  prediction performance. It looks at the case where there are more than one
+  mesh density variables, which has not been investigated before. We apply the
+  proposed method to an analytical function, and a stress analysis application
+  for a beam cantilever structure.
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: Computer Experiments with Multiple Mesh Density Variables
+location: |
+  Joint Statistical Meetings 2021 
+date: 2021-08-11T17:00:00.000Z
+date_end: 2021-08-11T20:00:00.000Z
+all_day: false
+event: SPES and Q&P Student Paper Award Presentation
+event_url: https://ww2.amstat.org/meetings/jsm/2021/
+featured: false
+authors:
+  - Henry S Yuchi
+  - Joseph Roshan
+  - C.F.Jeff Wu
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2021-08-15T04:55:19.594Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
 ---
 
 {{% callout note %}}
