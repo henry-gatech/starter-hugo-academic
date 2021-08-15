@@ -1,7 +1,7 @@
 ---
 title: Henry S Yuchi
 role: PhD Student in Machine Learning
-avatar_filename: image_20190318-1-.jpg
+avatar_filename: headshot.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
