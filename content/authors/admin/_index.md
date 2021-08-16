@@ -2,8 +2,7 @@
 title: Henry S Yuchi
 role: PhD Student in Machine Learning
 avatar_filename: avatar.jpg
-bio: My research interests include computer experiments modeling and engineering
-  statistics.
+bio: ""
 interests:
   - Data Science and Statistics
   - Machine Learning
