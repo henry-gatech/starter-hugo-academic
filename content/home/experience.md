@@ -26,7 +26,7 @@ experience:
   - title: Engineering Intern
     company: Rolls-Royce
     company_url: ""
-    company_logo: org-x
+    company_logo: ""
     location: Derby
     date_start: 2015-07-01
     date_end: 2015-09-15
