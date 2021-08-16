@@ -43,7 +43,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-08-15T05:01:20.348Z
+date: 2021-08-16T02:45:49.628Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
