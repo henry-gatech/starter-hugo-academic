@@ -9,7 +9,7 @@ experience:
     location: Atlanta
     date_start: 2018-08-01
     date_end: 2019-06-01
-    description: |-2
+    description:
 	Responsibilities include:
         
         * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
