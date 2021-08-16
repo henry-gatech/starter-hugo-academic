@@ -23,14 +23,14 @@ experience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Engineering Intern
+    company: Rolls-Royce
     company_url: ""
     company_logo: org-x
-    location: California
-    date_start: 2014-01-01
-    date_end: 2015-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Derby
+    date_start: 2015-07-01
+    date_end: 2015-09-15
+    description: Perform and analyze computer experiments on structural impact analysis of multiple aircraft engine fan CAD designs using Finite Elements Analysis software.
 widget_id: experience
 headless: true
 weight: 110
