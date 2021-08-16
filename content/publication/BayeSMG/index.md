@@ -36,8 +36,7 @@ title: Bayesian Uncertainty Quantification for Low-rank Matrix Completion
 doi: ""
 featured: false
 tags: []
-categories:
-  - Matrix Completion
+categories: []
 projects: []
 image:
   caption: ""
