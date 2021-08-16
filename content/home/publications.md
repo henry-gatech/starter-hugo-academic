@@ -2,7 +2,7 @@
 widget: pages
 widget_id: recent-pubs
 headless: true
-weight: 90
+weight: 60
 title: Publications
 subtitle: Matrix Completion
 content:
