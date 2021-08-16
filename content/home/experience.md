@@ -14,7 +14,8 @@ experience:
         
         * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
         * Teaching Assistant for ISYE 6416 Computational Statistics in Spring 2019.
-        * Giving 6 lectures in total, in addition to tutorial sessions and office hours.
+        * Give 6 lectures in total, in addition to tutorial sessions and office hours.
+	* Compose homework solutions and perform grading.
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
