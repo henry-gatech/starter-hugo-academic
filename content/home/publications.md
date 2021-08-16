@@ -4,7 +4,7 @@ widget_id: recent-pubs
 headless: true
 weight: 90
 title: Publications
-subtitle: ""
+subtitle: Matrix Completion
 content:
   page_type: publication
   count: 5
