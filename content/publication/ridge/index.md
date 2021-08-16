@@ -7,6 +7,7 @@ authors:
   - Shaowu Yuchi
   - Geoffrey T Parks
 publication: SIAM/ASA Journal on Uncertainty Quantification, 7(4), 1301-1322.
+publication_short: SIAM UQ
 abstract: >-
   Ridge functions have recently emerged as a powerful set of ideas for
   subspace-based dimension reduction.
