@@ -2,6 +2,21 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Graduate Teaching Assistant
+    company: Georgia Institute of Technology
+    company_url: ""
+    company_logo: org-x
+    location: Georgia
+    data_start: 2018-08-01
+    date_end: 2019-05-31
+    description: |-2
+ 	Teaching Assistant for ISYE 2028 Basic Statistical Mathematics
+        Teaching Assistant for ISYE 6416 Computational Statistics
+        Responsibilities include:
+	
+        * Teaching 7 lectures in total
+	* Compose solutions for assignemnts
+	* Weekly office hours and grading
   - title: CEO
     company: GenCoin
     company_url: ""
