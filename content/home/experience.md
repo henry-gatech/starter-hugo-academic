@@ -38,7 +38,7 @@ experience:
 #    description: Taught electronic engineering and researched semiconductor physics.
   - title: Product Engineering Intern
     company: Reveal Media
-    company_url: "https://www.revealmedia.com/"
+    company_url: ""
     company_logo: 
     location: London
     date_start: 2015-09-01
@@ -46,7 +46,7 @@ experience:
     description: Software and hardware testing for police body camera products and supporting devices. Product quality control and durability tests for camera products and batteries.
   - title: Engineering Intern
     company: Rolls-Royce
-    company_url: "https://www.rolls-royce.com/"
+    company_url: ""
     company_logo: 
     location: Derby
     date_start: 2015-07-01
@@ -54,7 +54,7 @@ experience:
     description: Perform and analyze computer experiments on structural impact analysis of multiple aircraft engine fan CAD designs using Finite Elements Analysis software.
   - title: Intern
     company: Granta Design
-    company_url: "https://www.grantadesign.com/"
+    company_url: ""
     company_logo: 
     location: Cambridge
     date_start: 2014-07-01
