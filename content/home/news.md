@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: posts
 widget_id: news
 headless: true
 weight: 40
