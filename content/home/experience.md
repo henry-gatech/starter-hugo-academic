@@ -12,9 +12,9 @@ experience:
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
+        * Teaching Assistant for ISYE 6416 Computational Statistics in Spring 2019.
+        * Giving 6 lectures in total, in addition to tutorial sessions and office hours.
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ""
