@@ -3,7 +3,7 @@ widget: pages
 widget_id: news
 headless: true
 weight: 40
-title: Updates
+title: Recent Updates
 subtitle: null
 content:
   page_type: post
