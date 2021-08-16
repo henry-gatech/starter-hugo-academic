@@ -37,4 +37,4 @@ highlight_name: false
 ---
 Henry Shaowu Yuchi is a PhD student in Machine Learning at H. Milton Stewart School of Industrial & Systems Engineering of Georgia Institute of Technology. His research interests include computer experiments modeling and engineering statistics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Yuchi.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_Yuchi.pdf" "newtab" >}}CV{{< /staticref >}}.
