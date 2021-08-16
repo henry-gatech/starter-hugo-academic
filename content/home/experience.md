@@ -2,13 +2,13 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Teaching Assistant
+    company: Georgia Tech
     company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
+    company_logo: 
+    location: Atlanta
+    date_start: 2018-08-01
+    date_end: 2019-06-01
     description: |-2
         Responsibilities include:
         
