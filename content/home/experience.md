@@ -23,14 +23,6 @@ experience:
     date_start: 2016-01-01
     date_end: 2020-12-31
     description: Taught electronic engineering and researched semiconductor physics.
-  - title: Product Engineering Intern
-    company: Reveal Media
-    company_url: ""
-    company_logo: 
-    location: London
-    date_start: 2015-09-01
-    date_end: 2015-10-10
-    description: Software and hardware testing for police body camera products and supporting devices. Product quality control and durability tests for camera products and batteries.
   - title: Engineering Intern
     company: Rolls-Royce
     company_url: ""
