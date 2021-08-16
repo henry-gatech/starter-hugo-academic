@@ -2,20 +2,27 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Graduate Teaching Assistant
-    company: Georgia Tech
+  - title: CEO
+    company: GenCoin
     company_url: ""
-    company_logo: 
-    location: Atlanta
-    date_start: 2018-08-01
-    date_end: 2019-06-01
+    company_logo: org-gc
+    location: California
+    date_start: 2021-01-01
+    date_end: ""
     description: |-2
-	Responsibilities include:
+        Responsibilities include:
         
-        * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
-        * Teaching Assistant for ISYE 6416 Computational Statistics in Spring 2019.
-        * Giving 6 lectures in total, in addition to tutorial sessions and office hours.
-	* Compose homework solutions and perform grading.
+        * Analysing
+        * Modelling
+        * Deploying
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ""
+    company_logo: org-x
+    location: California
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    description: Taught electronic engineering and researched semiconductor physics.
   - title: Product Engineering Intern
     company: Reveal Media
     company_url: ""
