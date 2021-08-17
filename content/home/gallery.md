@@ -21,4 +21,4 @@ I have visited a few places during my years of college, and I have enjoyed the v
 
 ![](staugustine.jpg " Castillo de San Marcos")
 
-![](hampton-court.jpg "Hampton Court")
+![](hampton-court.jpg "Hampton Court Park")
