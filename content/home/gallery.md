@@ -5,7 +5,7 @@ headless: true
 weight: 120
 title: Pictures
 subtitle: ""
-active: true
+active: false
 design:
   columns: "2"
   background:
