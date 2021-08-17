@@ -7,10 +7,14 @@ title: Pictures
 subtitle: ""
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
     image: ""
 ---
+
+
 ![](arches.jpg "Arches National Park")
+
+![](london.jpg "London")
