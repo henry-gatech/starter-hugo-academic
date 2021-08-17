@@ -17,4 +17,8 @@ I have visited a few places during my years of college, and I have enjoyed the v
 
 ![](arches.jpg "Arches National Park")
 
-![](london.jpg "London")
+![](buckingham-palace.jpg "Buckingham Palace")
+
+![](staugustine.jpg " Castillo de San Marcos")
+
+![](hampton-court.jpg "Hampton Court")
