@@ -24,6 +24,9 @@ organizations:
     url: https://www.gatech.edu/
 education:
   courses:
+    - course: PhD in Machine Learning
+      institution: Georgia Institute of Technology
+      year: 2023 (Expected)
     - course: MEng in Information Engineering
       institution: University of Cambridge
       year: 2018
