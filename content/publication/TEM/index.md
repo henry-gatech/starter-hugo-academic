@@ -13,6 +13,7 @@ authors:
   - Surya R. Kalidindi
 publication: Special Issue on Signal Processing for Advanced Materials in the
   IEEE Signal Processing Magazine
+publication_short: Special Issue of IEEE
 abstract: Transmission Electron Microscopy (TEM) is a powerful tool for imaging
   material structure and characterizing material chemistry. Recent advances in
   data collection technology for TEM have enabled high-volume and
