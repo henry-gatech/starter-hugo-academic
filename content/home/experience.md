@@ -8,13 +8,13 @@ experience:
     company_logo: null
     location: Atlanta
     date_start: 2018-08-01
-    date_end: Now
+    date_end: 2021-12-31
     description: >-2
         Responsibilities include:
         
         * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
         * Teaching Assistant for ISYE 6416 Computational Statistics in Spring 2019.
-        * Give 6 lectures in total, in addition to tutorial sessions and office hours.
+        * Gave 6 lectures in total, in addition to tutorial sessions and office hours.
   - title: Product Engineering Intern
     company: Reveal Media
     company_url: ""
