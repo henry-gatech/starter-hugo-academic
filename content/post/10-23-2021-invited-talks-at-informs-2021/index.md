@@ -10,6 +10,6 @@ image:
 ---
 It has been a great opportunity for me to have given two invited talks at 2021 INFORMS annual meeting over the past few days.
 
-At the invited talk at the QSR Annual workshop I discussed our work on uncertainty quantification for low-rank matrix completion.
+At the invited talk at the 1st INFORMS Workshop on Quality, Statistics & Reliability, I discussed our work on uncertainty quantification for low-rank matrix completion.
 
 At the invited talk at the session for Machine Learning for Spatio-temporal Data Modeling and Analysis, I talked about our work on Adversarial Anomaly Detection For Marked Spatio-Temporal Data.
