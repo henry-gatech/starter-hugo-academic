@@ -4,8 +4,8 @@ role: PhD Student in Machine Learning
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Data Science and Statistics
-  - Machine Learning
+  - Statistics
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
