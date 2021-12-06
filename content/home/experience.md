@@ -2,18 +2,27 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Graduate Research Assistant
+    company: Georgia Tech
+    company_url: ""
+    company_logo: null
+    location: Atlanta
+    date_start: 2019-06-01
+    date_end: 2021-12-31
+    description: 
+
   - title: Graduate Teaching Assistant
     company: Georgia Tech
     company_url: ""
     company_logo: null
     location: Atlanta
     date_start: 2018-08-01
-    date_end: 2021-12-31
+    date_end: 2019-05-31
     description: >-2
         Responsibilities include:
         
-        * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
         * Teaching Assistant for ISYE 6416 Computational Statistics in Spring 2019.
+        * Teaching Assistant for ISYE 2028 Basic Statistical Maths in Fall 2018.
         * Gave 6 lectures in total, in addition to tutorial sessions and office hours.
   - title: Product Engineering Intern
     company: Reveal Media
