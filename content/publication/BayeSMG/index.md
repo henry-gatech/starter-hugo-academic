@@ -17,7 +17,7 @@ abstract: We consider the problem of uncertainty quantification for an unknown
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Henry Shaowu Yuchi
   - Simon Mak
@@ -25,7 +25,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: ""
+publication: Bayesian Analysis
 summary: ""
 url_dataset: ""
 url_project: ""
