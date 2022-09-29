@@ -12,7 +12,9 @@ authors:
   - V. Roshan Joseph
   - C. F. Jeff Wu
   - Simon Mak
-author_notes: []
+author_notes:
+  - Joint first authors
+  - Joint first authors
 abstract: In an era where scientific experimentation is often costly,
   multi-fidelity emulation provides a powerful tool for predictive scientific
   computing. While there has been notable work on multi-fidelity modeling,
