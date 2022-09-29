@@ -23,8 +23,8 @@ authors:
   - Simon Mak
   - Yao Xie
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Joint first authors
+  - Joint first authors
 publication: Bayesian Analysis
 summary: ""
 url_dataset: ""
