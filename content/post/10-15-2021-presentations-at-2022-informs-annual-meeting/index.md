@@ -1,5 +1,5 @@
 ---
-title: 10/15/2021 Presentations at 2022 INFORMS Annual Meeting
+title: 10/15/2022 Presentations at 2022 INFORMS Annual Meeting
 date: 2022-10-21T06:40:05.591Z
 draft: false
 featured: false
