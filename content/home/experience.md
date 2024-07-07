@@ -8,7 +8,7 @@ experience:
     company_logo: null
     location: Atlanta
     date_start: 2019-06-01
-    date_end: 2022-05-01
+    date_end: 2023-07-31
     description: 
 
   - title: Graduate Teaching Assistant
